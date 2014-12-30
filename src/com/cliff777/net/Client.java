@@ -1,4 +1,4 @@
-package com.cliff777.clientshell;
+package com.cliff777.net;
 
 import java.io.BufferedReader;
 import java.io.IOException;

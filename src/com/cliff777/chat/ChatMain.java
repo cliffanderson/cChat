@@ -13,7 +13,7 @@ import javafx.stage.WindowEvent;
 import javax.swing.JOptionPane;
 
 import com.cliff777.chat.listener.KeyEventHandler;
-import com.cliff777.clientshell.Client;
+import com.cliff777.net.Client;
 
 public class ChatMain extends Application
 {
